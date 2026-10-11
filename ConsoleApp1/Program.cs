@@ -7,4 +7,6 @@ Console.WriteLine("Hello, World! Meryem");
 Console.WriteLine("Hola :D");
 Console.WriteLine("20");
 
+Console.WriteLine("Joseth:Aplicado");
+Console.WriteLine("Hello,World! Meryem");
 
